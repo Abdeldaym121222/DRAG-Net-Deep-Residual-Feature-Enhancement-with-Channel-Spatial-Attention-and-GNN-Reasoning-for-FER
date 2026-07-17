@@ -1,0 +1,5 @@
+The dataset AffectNet utilized in this research is available at: https://mohammadmahoor.com/pages/databases/affectnet/
+The KDEF dataset utilized in this research can be found at: https://www.kaggle.com/datasets/KDEF.
+
+Permission to use the AffectNet dataset was obtained from its owner via email.
+
